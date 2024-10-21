@@ -1,0 +1,104 @@
+2024-10-08 12:31:34,771 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.103:5000
+2024-10-08 12:31:34,772 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-08 20:03:46,675 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.103:5000
+2024-10-08 20:03:46,676 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-08 20:34:01,546 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.103:5000
+2024-10-08 20:34:01,547 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-16 12:05:45,673 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-10-16 12:05:45,676 - INFO -  * Running on http://172.17.0.2:5000/ (Press CTRL+C to quit)
+2024-10-16 12:05:45,679 - INFO -  * Restarting with stat
+2024-10-16 12:06:06,559 - INFO - 172.17.0.1 - - [16/Oct/2024 12:06:06] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-16 12:06:18,321 - INFO -  * Detected change in '/app/app.py', reloading
+2024-10-16 12:06:18,460 - INFO -  * Restarting with stat
+2024-10-16 17:36:38,495 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.103:5000
+2024-10-16 17:36:38,495 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-16 17:37:30,149 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.103:5000
+2024-10-16 17:37:30,150 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-21 16:47:57,094 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-21 16:47:57,096 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-21 16:47:57,112 - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-21 16:47:58,416 - WARNING -  * Debugger is active!
+2024-10-21 16:47:58,420 - INFO -  * Debugger PIN: 522-563-733
+2024-10-21 16:49:07,799 - INFO - Received data: {'name': 'P2', 'value': 200}
+2024-10-21 16:49:07,857 - INFO - API Log: {'id': 1, 'level': 'Info', 'api_type': 'POST', 'response_status': 201, 'message': 'Item added successfully!', 'endpoint': '/items', 'timestamp': '2024-10-21 16:49:07', 'time_diff': '0.0512'}
+2024-10-21 16:49:07,923 - INFO - 127.0.0.1 - - [21/Oct/2024 16:49:07] "[35m[1mPOST /items HTTP/1.1[0m" 201 -
+2024-10-21 16:49:13,616 - INFO - Fetched items: [(1, 'P2', 200)]
+2024-10-21 16:49:13,620 - INFO - API Log: {'id': 2, 'level': 'Info', 'api_type': 'GET', 'response_status': '200', 'message': 'Items fetched', 'endpoint': '/items', 'timestamp': '2024-10-21 16:49:13', 'time_diff': '0.0013'}
+2024-10-21 16:49:13,867 - INFO - 127.0.0.1 - - [21/Oct/2024 16:49:13] "GET /items HTTP/1.1" 200 -
+2024-10-21 16:49:16,355 - INFO - 127.0.0.1 - - [21/Oct/2024 16:49:16] "GET /api_logs HTTP/1.1" 200 -
+2024-10-21 17:56:02,254 - INFO -  * Detected change in 'C:\\Users\\ramue\\study\\AIONOS\\POC\\SRE-Flask\\app.py', reloading
+2024-10-21 17:56:02,265 - INFO -  * Detected change in 'C:\\Users\\ramue\\study\\AIONOS\\POC\\SRE-Flask\\app.py', reloading
+2024-10-21 17:56:02,269 - INFO -  * Detected change in 'C:\\Users\\ramue\\study\\AIONOS\\POC\\SRE-Flask\\app.py', reloading
+2024-10-21 17:56:03,415 - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-21 17:56:07,197 - WARNING -  * Debugger is active!
+2024-10-21 17:56:07,199 - INFO -  * Debugger PIN: 522-563-733
+2024-10-21 17:56:13,644 - INFO -  * Detected change in 'C:\\Users\\ramue\\study\\AIONOS\\POC\\SRE-Flask\\app.py', reloading
+2024-10-21 17:56:13,645 - INFO -  * Detected change in 'C:\\Users\\ramue\\study\\AIONOS\\POC\\SRE-Flask\\app.py', reloading
+2024-10-21 17:56:14,397 - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-21 17:56:15,553 - WARNING -  * Debugger is active!
+2024-10-21 17:56:15,555 - INFO -  * Debugger PIN: 522-563-733
+2024-10-21 17:57:08,215 - INFO -  * Detected change in 'C:\\Users\\ramue\\study\\AIONOS\\POC\\SRE-Flask\\app.py', reloading
+2024-10-21 17:57:08,217 - INFO -  * Detected change in 'C:\\Users\\ramue\\study\\AIONOS\\POC\\SRE-Flask\\app.py', reloading
+2024-10-21 17:57:08,217 - INFO -  * Detected change in 'C:\\Users\\ramue\\study\\AIONOS\\POC\\SRE-Flask\\app.py', reloading
+2024-10-21 17:57:08,869 - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-21 17:57:10,014 - WARNING -  * Debugger is active!
+2024-10-21 17:57:10,015 - INFO -  * Debugger PIN: 522-563-733
+2024-10-21 17:57:13,564 - INFO -  * Detected change in 'C:\\Users\\ramue\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\typing.py', reloading
+2024-10-21 17:57:13,580 - INFO -  * Detected change in 'C:\\Users\\ramue\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+2024-10-21 17:57:13,597 - INFO -  * Detected change in 'C:\\Users\\ramue\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+2024-10-21 17:57:13,631 - INFO -  * Detected change in 'C:\\Users\\ramue\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+2024-10-21 17:57:13,643 - INFO -  * Detected change in 'C:\\Users\\ramue\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\wrappers.py', reloading
+2024-10-21 17:57:13,656 - INFO -  * Detected change in 'C:\\Users\\ramue\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2024-10-21 17:57:13,666 - INFO -  * Detected change in 'C:\\Users\\ramue\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2024-10-21 17:57:14,171 - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-21 17:57:15,143 - WARNING -  * Debugger is active!
+2024-10-21 17:57:15,144 - INFO -  * Debugger PIN: 522-563-733
+2024-10-21 17:57:21,329 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-21 17:57:21,329 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-21 17:57:21,342 - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-21 17:57:22,325 - WARNING -  * Debugger is active!
+2024-10-21 17:57:22,326 - INFO -  * Debugger PIN: 522-563-733
+2024-10-21 17:57:29,526 - INFO - Received data: {'name': 'P2', 'value': 200}
+2024-10-21 17:57:29,529 - INFO - API Log: {'id': 1, 'level': 'Info', 'api_type': 'POST', 'response_status': 201, 'message': 'Item added successfully!', 'endpoint': '/items', 'timestamp': '2024-10-21 17:57:29', 'time_diff': '0.0021'}
+2024-10-21 17:57:29,808 - INFO - 127.0.0.1 - - [21/Oct/2024 17:57:29] "[35m[1mPOST /items HTTP/1.1[0m" 201 -
+2024-10-21 17:57:32,982 - INFO - Fetched items: [(1, 'P2', 200)]
+2024-10-21 17:57:32,986 - INFO - API Log: {'id': 2, 'level': 'Info', 'api_type': 'GET', 'response_status': '200', 'message': 'Items fetched', 'endpoint': '/items', 'timestamp': '2024-10-21 17:57:32', 'time_diff': '0.0011'}
+2024-10-21 17:57:33,688 - INFO - 127.0.0.1 - - [21/Oct/2024 17:57:33] "GET /items HTTP/1.1" 200 -
+2024-10-21 17:57:38,375 - INFO - 127.0.0.1 - - [21/Oct/2024 17:57:38] "GET /api_logs HTTP/1.1" 200 -
+2024-10-21 17:58:41,102 - INFO - 127.0.0.1 - - [21/Oct/2024 17:58:41] "GET /data/api_count HTTP/1.1" 200 -
+2024-10-21 17:59:00,754 - INFO - 127.0.0.1 - - [21/Oct/2024 17:59:00] "GET /data/response_time HTTP/1.1" 200 -
+2024-10-21 18:02:28,000 - INFO -  * Detected change in 'C:\\Users\\ramue\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\__init__.py', reloading
+2024-10-21 18:02:28,016 - INFO -  * Detected change in 'C:\\Users\\ramue\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_utils\\__init__.py', reloading
+2024-10-21 18:02:28,067 - INFO -  * Detected change in 'C:\\Users\\ramue\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\typing\\__init__.py', reloading
+2024-10-21 18:02:28,071 - INFO -  * Detected change in 'C:\\Users\\ramue\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_array_like.py', reloading
+2024-10-21 18:02:28,130 - INFO -  * Detected change in 'C:\\Users\\ramue\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_nbit.py', reloading
+2024-10-21 18:02:28,372 - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-21 18:02:30,129 - WARNING -  * Debugger is active!
+2024-10-21 18:02:30,133 - INFO -  * Debugger PIN: 522-563-733
+2024-10-21 18:05:50,134 - INFO -  * Detected change in 'C:\\Users\\ramue\\study\\AIONOS\\POC\\SRE-Flask\\app.py', reloading
+2024-10-21 18:05:50,137 - INFO -  * Detected change in 'C:\\Users\\ramue\\study\\AIONOS\\POC\\SRE-Flask\\app.py', reloading
+2024-10-21 18:05:50,341 - INFO -  * Detected change in 'C:\\Users\\ramue\\study\\AIONOS\\POC\\SRE-Flask\\app.py', reloading
+2024-10-21 18:05:50,342 - INFO -  * Detected change in 'C:\\Users\\ramue\\study\\AIONOS\\POC\\SRE-Flask\\app.py', reloading
+2024-10-21 18:05:50,342 - INFO -  * Detected change in 'C:\\Users\\ramue\\study\\AIONOS\\POC\\SRE-Flask\\app.py', reloading
+2024-10-21 18:05:50,343 - INFO -  * Detected change in 'C:\\Users\\ramue\\study\\AIONOS\\POC\\SRE-Flask\\app.py', reloading
+2024-10-21 18:05:50,537 - INFO -  * Detected change in 'C:\\Users\\ramue\\study\\AIONOS\\POC\\SRE-Flask\\app.py', reloading
+2024-10-21 18:05:50,541 - INFO -  * Detected change in 'C:\\Users\\ramue\\study\\AIONOS\\POC\\SRE-Flask\\app.py', reloading
+2024-10-21 18:05:50,861 - INFO -  * Restarting with watchdog (windowsapi)
